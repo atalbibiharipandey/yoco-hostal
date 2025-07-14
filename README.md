@@ -16,8 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ScreenShots=======================================
 
-<img src="screenshots/1.jpg" alt="Title" width="300" height="500" />
+<div style="display: flex; gap: 10px;">
+  <img src="screenshots/1.jpg" alt="Title" width="300" height="500" />
 <img src="screenshots/2.jpg" alt="Title" width="300" height="500" />
 <img src="screenshots/3.jpg" alt="Title" width="300" height="500" />
 <img src="screenshots/4.jpg" alt="Title" width="300" height="500" />
 <img src="screenshots/5.jpg" alt="Title" width="300" height="500" />
+</div>
+
