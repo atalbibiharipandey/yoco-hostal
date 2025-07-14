@@ -14,5 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+ScreenShots=======================================
 
-![Alt text](assets/icons/sbi.png?raw=true "Title")
+<img src="screenshots/1.jpg" alt="Title" width="300" height="500" />
+<img src="screenshots/2.jpg" alt="Title" width="300" height="500" />
+<img src="screenshots/3.jpg" alt="Title" width="300" height="500" />
+<img src="screenshots/4.jpg" alt="Title" width="300" height="500" />
+<img src="screenshots/5.jpg" alt="Title" width="300" height="500" />
